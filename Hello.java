@@ -1,8 +1,8 @@
 class Hello
 {
-public static void main(String args[])
+public static void main(String args[]
 {
-System.out.println("hello from feature101 local");
+System.out.println("hello from feature101 remote");
 }
 }
 
